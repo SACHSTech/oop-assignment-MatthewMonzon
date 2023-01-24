@@ -3,7 +3,7 @@
 
 [*see instructions for details*](Instructions.md)
 
-*Insert Class Diagram here*  
+<img src= "https://github.com/SACHSTech/oop-assignment-MatthewMonzon/"> 
 
 ## Summary
-*Include a brief summary that describes your system that your are modelling*
+*A Program that simulates an online shopping site. The Customer is asked for personal information to complete their profile with name and address. The user is then prompted with differnet commands within the program to navigate the store such as shopping and checking cart. When the user is done they can log off*
